@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=chandan2300&show_icons=true&locale=en" alt="chandan2300" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan2300&" alt="chandan2300" /></p>
