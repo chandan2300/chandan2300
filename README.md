@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan Kasamsetty</h1>
 <h3 align="center">A passionate Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan2300" alt="chandan2300" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning**
 
@@ -23,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan2300&show_icons=true&locale=en&layout=compact" alt="chandan2300" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan2300&show_icons=true&locale=en" alt="chandan2300" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=chandan2300&show_icons=true&locale=en" alt="chandan2300" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan2300&" alt="chandan2300" /></p>
