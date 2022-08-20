@@ -24,6 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan2300&css,python,html&langs_count=3" />
 </a>
 <a href="https://github.com/chandan2300/chandan2300">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan2300&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" alt="Chandan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan2300&show_icons=true&line_height=27&count_private=true" alt="Chandan's GitHub Stats" />
 </a>
 
